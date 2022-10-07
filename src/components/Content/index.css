@@ -1,0 +1,21 @@
+.content .content-header{
+    height: 90px;
+    background-color: olivedrab;
+    color: white;
+}
+
+.content .message {
+    height: 50px;
+    background-color: yellow;
+    font-size: 25px;
+    margin: 10px;
+    border-radius: 40px;
+}
+
+.content .message span{
+    font-size: 14px;
+    color: purple;
+    float: right;
+    font-weight: bold;
+    margin-top: 25px;
+}

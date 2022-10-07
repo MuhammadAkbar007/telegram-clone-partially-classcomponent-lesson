@@ -1,0 +1,5 @@
+.sider .user:hover{
+    background-color: darkslateblue;
+    color: white;
+    cursor: pointer;
+}
